@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 import com.example.Class.User;
 
-// Controler "seta" o prefixo do que vai estar na classe
+// Controller "seta" o prefixo das rotas que estão na classe
 @Controller("/user")
 public class UserController {
     
